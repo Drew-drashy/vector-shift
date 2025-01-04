@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .node {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .text-node {
+    border: 1px solid #888;
+    padding: 10px;
+    background-color: #eef;
+    resize: both;
+    overflow: auto;
+  }
+  
+  .handle {
+    margin-top: 5px;
+    padding: 5px;
+    background-color: #ddd;
+    border-radius: 3px;
+    display: inline-block;
+  }
+  
